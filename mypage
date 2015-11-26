@@ -1,0 +1,41 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+MY PAGE
+</title>
+</head>
+<body>
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="0p0TwqAR84MaRssyukeQuCXzDWh/8/66CZlljFKekDZtn/6RPVxKS+bap1EvQUFqbmJ/o4xMLp+QC3TwtWq8uA+EWPb3P34JQ31IoYMOV0w=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+</div>
+         <div style="height:150px;font-size:large;background-color:crimson;padding:30px;">
+        <div style="display:inline-block;">
+            <img src="C:\Users\Adi\Desktop\IMG_5027.JPG" height="150" />
+            </div>
+        <div style="display:inline-block;padding-left:40px;vertical-align:top;">
+            <h1 style="color:linen;font-family:Lucida Calligraphy;" >
+                DAT 605 Cloud Computing</h1>
+<h1 style="color:khaki; font-family:Fantasy"> GAUTAMI VERMA GAJULA
+            </h1>
+        </div>
+        <div style="display:inline-block;float:right">
+            <img src="C:\Users\Adi\Desktop\comp6_e0.gif" width="170" />
+        </div>
+    </div>
+    <div>
+        
+   <h3 style="color:DeepSkyBlue ;font-family:Monotype Corsiva;">
+ Hi, this is </h3>
+<h2 style="color:blue;font-family:Monotype Corsiva;">
+Gautami Verma</h2>
+<h3 style="color:darkBlue ;font-family:Monotype Corsiva;">Your viewing my page</h3>
+
+    </div>
+    </form>
+</body>
+</html>
